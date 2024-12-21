@@ -1,3 +1,37 @@
 <resources>
     <string name="app_name">metro</string>
+<!--    <string-array name="stations">-->
+<!--        <item>El Marg</item>-->
+<!--        <item>Ezbet El Nakhl</item>-->
+<!--        <item>Ain Shams</item>-->
+<!--        <item>El Matareyya</item>-->
+<!--        <item>Helmeyet El Zaitoun</item>-->
+<!--        <item>Hadayeq El Zaitoun</item>-->
+<!--        <item>Saray El Qobba</item>-->
+<!--        <item>Hammamat El Qobba</item>-->
+<!--        <item>Kobri El Qobba</item>-->
+<!--        <item>Manshiet El Sadr</item>-->
+<!--        <item>El Demerdash</item>-->
+<!--        <item>Ghamra</item>-->
+<!--        <item>El Shohadaa</item>-->
+<!--        <item>Orabi</item>-->
+<!--        <item>Nasser</item>-->
+<!--        <item>Sadat</item>-->
+<!--        <item>Saad Zaghloul</item>-->
+<!--        <item>El Sayeda Zeinab</item>-->
+<!--        <item>El Malek El Saleh</item>-->
+<!--        <item>Mar Girgis</item>-->
+<!--        <item>El Zahraa</item>-->
+<!--        <item>Dar El Salam</item>-->
+<!--        <item>Hadayeq El Maadi</item>-->
+<!--        <item>Maadi</item>-->
+<!--        <item>Sakanat El Maadi</item>-->
+<!--        <item>Tora El Balad</item>-->
+<!--        <item></item>-->
+<!--        <item></item>-->
+<!--        <item></item>-->
+<!--        <item></item>-->
+<!--        <item></item>-->
+<!--        <item></item>-->
+<!--    </string-array>-->
 </resources>
